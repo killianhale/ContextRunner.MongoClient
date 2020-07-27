@@ -1,0 +1,10 @@
+.DS_Store
+
+.vs
+.idea
+
+obj
+bin
+dist
+
+apikey
